@@ -72,3 +72,9 @@ article blockquote {
   padding-left: 10px;
   color: #666;
 }
+.logo {
+  height: 30px;
+  width: auto;
+  margin-right: 15px;
+  border-radius: 8px;
+}
