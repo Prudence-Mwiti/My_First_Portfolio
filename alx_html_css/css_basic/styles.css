@@ -35,3 +35,40 @@ header, footer {
   padding: 15px;
   text-align: center;
 }
+/* General body styles */
+body {
+  background-color: #f0f0f5;
+  font-family: Arial, sans-serif;
+  color: #333;
+}
+
+/* Header styles */
+header {
+  background-color: #1a73e8;
+  padding: 20px;
+  color: white;
+}
+
+/* Logo style */
+.logo {
+  font-size: 2rem;
+  margin-right: 20px;
+}
+
+/* Article styles */
+article {
+  background-color: white;
+  padding: 20px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  margin-top: 20px;
+}
+
+/* Blockquote inside article */
+article blockquote {
+  font-style: italic;
+  border-left: 4px solid #999;
+  padding-left: 10px;
+  color: #666;
+}
